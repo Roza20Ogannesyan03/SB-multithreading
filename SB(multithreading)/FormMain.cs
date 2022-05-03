@@ -22,6 +22,7 @@ namespace SB_multithreading_
             InitializeComponent();
         }
 
+
         private void FormMain_Load(object sender, EventArgs e)
         {
             dGVLevel1.Rows.Add(4);
